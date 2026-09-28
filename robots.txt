@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zibo-yu.github.io/al-folio/sitemap.xml
+Sitemap: https://zibo-yu.github.io/sitemap.xml
